@@ -34,10 +34,10 @@ Desenvolver um programa que acenda um LED quando o sensor de presença detectar 
 
 desenvolver uma lógica onde aperta 1 vez o botão ligue o LED 1, apertar uma segunda vez ligue o LED 2, apertar uma terceira vez desligue
 
--O Arduino lê o estado do Botão pelo pino 3
--Controla o LED pelo pino 5 e 11
--Utiliza a porta de 5V
--Utiliza a porta GND
+- O Arduino lê o estado do Botão pelo pino 3
+- Controla o LED pelo pino 5 e 11
+- Utiliza a porta de 5V
+- Utiliza a porta GND
 
 | Qtd | Componente |
 |-----|------------|
